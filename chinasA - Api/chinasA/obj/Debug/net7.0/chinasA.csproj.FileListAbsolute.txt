@@ -1,0 +1,857 @@
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\appsettings.Development.json
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\appsettings.json
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.exe
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.deps.json
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.pdb
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Humanizer.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.dll
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.pdb
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+M:\Web Api\chinasA\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Azure.Core.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\AutoMapper.dll
+M:\Web Api\chinasA\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.exe
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.deps.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Humanizer.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+C:\Users\The user\Desktop\project_webapi\chinasA\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+M:\Web Api\chinasA - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\שרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+E:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+M:\מעודכןשרה יפרח\chinasA - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+M:\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\appsettings.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.staticwebassets.runtime.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.exe
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.deps.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.runtimeconfig.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Humanizer.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.AssemblyInfo.cs
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.chinasA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.build.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinasA.props
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\scopedcss\bundle\chinasA.styles.css
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.csproj.CopyComplete
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\refint\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.pdb
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\chinasA.genruntimeconfig.cache
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\obj\Debug\net7.0\ref\chinasA.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\NSwag.Annotations.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Scrutor.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\MS.TF.Pipelines.WebApi.NetStandard.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.Azure.Pipelines.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\The user\Desktop\מעודכןשרה יפרח\chinasA - Copy - Copy\chinasA\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
